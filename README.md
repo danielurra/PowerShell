@@ -1,7 +1,10 @@
 # PowerShell
 ![PowerShell](https://github.com/danielurra/PowerShell/assets/51704179/528d58e5-fa7e-4da6-8339-05a29fc43fbf)<br>
+PowerShell is Microsoft’s next-generation scripting language and command shell.<br>
+It can be used interactively, as your every day command shell, but it is also a full scripting language.<br>
+By being interactive, PowerShell allows you to enter commands into a console and get immediate feedback. <br>
+By being scriptable, PowerShell allows you to put all of your commands in a basic text file (with a .ps1 extension) and run them<br>
 
-Windows PowerShell is a task-based command-line shell and scripting language<br>
 ## VS Code PowerShell extension
 See image below:
 ![how-does-it-look](https://github.com/danielurra/PowerShell/assets/51704179/cb91bdca-2a1e-4139-a0a7-e8587057cfda)<br>
