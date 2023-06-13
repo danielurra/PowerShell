@@ -4,6 +4,9 @@ PowerShell is Microsoft’s next-generation scripting language and command shell
 It can be used interactively, as your every day command shell, but it is also a full scripting language.<br>
 By being **interactive**, PowerShell allows you to enter commands into a console and get immediate feedback. <br>
 By being **scriptable**, PowerShell allows you to put all of your commands in a basic text file (with a .ps1 extension) and run them<br>
+PowerShell is more than just a shell, it's a complete scripting environment oriented on Windows.<br> 
+PowerShell invokes lightweights commands, the cmdlets, to get things done in an efficient way. <br>
+And because of its integration with . NET and other core Windows components, PowerShell is the number one solution for managing Windows.<br>
 
 ## VS Code PowerShell extension
 See image below:<br>
