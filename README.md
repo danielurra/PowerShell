@@ -9,7 +9,7 @@ See image below:
 ISE mode's idea is to allow users to write and debug code in a similar way they would do using the PowerShell ISE.<br>
 Open the command tool using the following keyboard keys:<br>
 **Ctrl + Shift + P** <br>
-Search for: Enable ISE Mode<br>
+Search for: `Enable ISE Mode`<br>
 ![enable-ise-mode](https://github.com/danielurra/PowerShell/assets/51704179/c77c13e6-f38a-4095-9db1-e30813d6478f)<br>
 ## ISE Mode
 ![ise-mode](https://github.com/danielurra/PowerShell/assets/51704179/31dfed5d-a934-40ec-9613-1aa55b4d2668)<br>
