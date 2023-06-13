@@ -7,7 +7,7 @@ By being **scriptable**, PowerShell allows you to put all of your commands in a 
 PowerShell is more than just a shell, it's a complete scripting environment oriented on Windows.<br> 
 PowerShell invokes lightweights commands, the cmdlets, to get things done in an efficient way. <br>
 And because of its integration with . NET and other core Windows components, PowerShell is the number one solution<br>
-for managing Windows, either on premises and on the cloud (Azure, MS-365).<br>
+for managing Windows, either on premises or on the cloud (Azure, MS-365).<br>
 
 ## VS Code PowerShell extension
 See image below:<br>
