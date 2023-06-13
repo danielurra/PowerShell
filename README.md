@@ -13,6 +13,9 @@ Search for: `Enable ISE Mode`<br>
 ![enable-ise-mode](https://github.com/danielurra/PowerShell/assets/51704179/c77c13e6-f38a-4095-9db1-e30813d6478f)<br>
 ## ISE Mode
 ![ise-mode](https://github.com/danielurra/PowerShell/assets/51704179/31dfed5d-a934-40ec-9613-1aa55b4d2668)<br>
+## Press F5 to run your code
+![press-F5](https://github.com/danielurra/PowerShell/assets/51704179/473c5eb4-b49a-4e17-9e8e-931876574aeb)<br>
+
 
 
 
