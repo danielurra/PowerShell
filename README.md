@@ -6,7 +6,9 @@ By being **interactive**, PowerShell allows you to enter commands into a console
 By being **scriptable**, PowerShell allows you to put all of your commands in a basic text file (with a .ps1 extension) and run them<br>
 
 ## VS Code PowerShell extension
-See image below:
+See image below:<br>
+![VSCode-extension](https://github.com/danielurra/PowerShell/assets/51704179/499f7403-7aaa-49c1-9483-6d88d7a32f4b)
+How does it look<br>
 ![how-does-it-look](https://github.com/danielurra/PowerShell/assets/51704179/cb91bdca-2a1e-4139-a0a7-e8587057cfda)<br>
 ## VS Code, enable ISE Mode
 ISE mode's idea is to allow users to write and debug code in a similar way they would do using the PowerShell ISE.<br>
