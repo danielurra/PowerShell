@@ -27,7 +27,8 @@ Search for: `Enable ISE Mode`<br>
 ## Backtick aka grave accent - Alt 96
 To split long command into multiple lines, use the backtick ( ` ) character in the command where you want to split it into multiple lines.<br>
 make sure you leave one space between the code and the backtick.<br>
-![backtick](https://github.com/danielurra/PowerShell/assets/51704179/f3a2d439-93b3-4382-9ec0-b15b73639b0c)
+![backtick](https://github.com/danielurra/PowerShell/assets/51704179/f3a2d439-93b3-4382-9ec0-b15b73639b0c)<br>
+![grave-accent-ascii-code-96](https://github.com/danielurra/PowerShell/assets/51704179/28c8e821-e4bd-422d-88bb-a51394a7a836)<br>
 
 
 
